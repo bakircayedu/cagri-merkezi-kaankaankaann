@@ -1,0 +1,16 @@
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\bin\Debug\netcoreapp3.1\Ödev3.exe
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\bin\Debug\netcoreapp3.1\Ödev3.deps.json
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\bin\Debug\netcoreapp3.1\Ödev3.runtimeconfig.json
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\bin\Debug\netcoreapp3.1\Ödev3.runtimeconfig.dev.json
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\bin\Debug\netcoreapp3.1\Ödev3.dll
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\bin\Debug\netcoreapp3.1\Ödev3.pdb
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.csproj.AssemblyReference.cache
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.Form1.resources
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.csproj.GenerateResource.cache
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.dll
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.pdb
+C:\Users\Kaan\source\repos\Ödev3\Ödev3\obj\Debug\netcoreapp3.1\Ödev3.genruntimeconfig.cache
